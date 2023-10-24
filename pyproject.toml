@@ -41,7 +41,7 @@ pyspark = ">2"
 semver = "^3"
 
 [tool.poetry.group.testing.dependencies]
-pytest = "^7"
+pytest = "^6"
 chispa = "0.9.4"
 pytest-describe = "^2"
 
