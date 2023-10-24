@@ -37,7 +37,7 @@ optional = true
 optional = true
 
 [tool.poetry.group.development.dependencies]
-pyspark = ">3"
+pyspark = ">2"
 semver = "^3"
 
 [tool.poetry.group.testing.dependencies]
